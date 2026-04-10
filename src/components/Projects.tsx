@@ -11,12 +11,12 @@ export default function Projects() {
       demo: 'https://example.com'
     },
     {
-      title: 'Task Management App',
-      description: 'A collaborative task management tool with real-time updates, team workspace, and productivity analytics.',
+      title: 'Smart Task Manager',
+      description: 'A responsive task management web application to organize, track, and manage daily tasks efficiently.',
       image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['TypeScript', 'React', 'Supabase', 'Real-time'],
-      github: 'https://github.com',
-      demo: 'https://example.com'
+      tags: ['HTML','CSS','JavaScript'],
+      github: 'https://github.com/SalmanRaju657/smart-task-manager',
+      demo: 'smart-task-manager-1t3y0mjkh-salmanraju657s-projects.vercel.app'
     },
     {
       title: 'Weather Dashboard',
