@@ -16,7 +16,7 @@ export default function Projects() {
       image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800',
       tags: ['HTML','CSS','JavaScript'],
       github: 'https://github.com/SalmanRaju657/smart-task-manager',
-      demo: 'smart-task-manager-1t3y0mjkh-salmanraju657s-projects.vercel.app'
+      demo: 'https://smart-task-manager-1t3y0mjkh-salmanraju657s-projects.vercel.app'
     },
     {
       title: 'Weather Dashboard',
